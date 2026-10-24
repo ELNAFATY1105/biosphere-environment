@@ -1,0 +1,5 @@
+Vercel candidate, 24 October 2026
+Python source syntax and Vercel JSON syntax checked.
+Production frontend build checked.
+Live Vercel routing, lifespan, Earth Engine credentials and Mapbox integration remain unverified until deployment.
+No cloud resources or credentials created. No scientific algorithms changed.
